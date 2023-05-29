@@ -1,23 +1,23 @@
 const mongoose = require("mongoose");
-const empreendedoraSchema = new mongoose.Schema(
+const clienteSchema = new mongoose.Schema(
     {
         id: { type: String },
         nomedaEmpreendedora: { type: String ,required: true},
         nomedoEmpreendimento: { type: String , required: true},
         cpf: { type: String,required: true },
-        cnpj: { type: String, required: true},
+        CNPJ: { type: String, required: true},
         redesocial: { type: Array },
-        site: { type: String },
-        whatsapp: { type: String,required: true },
+        Site: { type: String },
+        Whatsapp: { type: String,required: true },
         email: { type: String, required: true },
-        nicho: { type: Array, required: true },
+        Nicho: { type: String,required: true },
         categoria: { type: String,required: true },
         endereço: { type: Object, required: true },
-        descricao: { type: String ,required: true},
-        youLiked: { type: Boolean }
+        descriçao: { type: String ,required: true},
+        Youliked: { type: Boolean }
     }
 )
 
-const empreendedoras = mongoose.model("empreendedoras", empreendedoraSchema);
+const cliente = mongoose.model("cliente", clienteSchema);
 
-module.exports = empreendedoras;
+module.exports = cliente;
