@@ -2,8 +2,8 @@ const mongoose = require("mongoose");
 const empreendedoraSchema = new mongoose.Schema(
     {
         id: { type: String },
-        nomedaEmpreendedora: { type: String ,required: true},
-        nomedoEmpreendimento: { type: String , required: true},
+        nomeDaEmpreendedora: { type: String ,required: true},
+        nomeDoEmpreendimento: { type: String , required: true},
         cpf: { type: String,required: true },
         cnpj: { type: String, required: true},
         redesocial: { type: Array },

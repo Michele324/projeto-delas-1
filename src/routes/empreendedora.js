@@ -1,10 +1,13 @@
 const express = require ("express");
-const  EmprendedoraController = require ("../controllers/empreendedoraController");
+const  EmpreendedoraController = require ("../controllers/empreendedoraController");
 
 const router = express.Router();
 
 router
-.get("/", EmprendedoraController.getAllEmpreendedoras)
-.post("/", EmprendedoraController.createEmpreendedoras)
+.get("/", EmpreendedoraController.getAllEmpreendedoras)
+.post("/", EmpreendedoraController.createEmpreendedoras)
+.put("/:id", EmpreendedoraController.updateEmpreendedoras)
+.delete("/:id", EmpreendedoraController.deleteEmpreendedoras)
+.get("/:id", EmpreendedoraController.getByIdEmpreendedoras)
 
 module.exports = router;
