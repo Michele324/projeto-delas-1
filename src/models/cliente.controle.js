@@ -3,9 +3,7 @@ const clienteSchema = new mongoose.Schema(
     {
         id: { type: String },
         nomedaCliente: { type: String ,required: true},
-        nomedoEmpreendimento: { type: String , required: true},
         cpf: { type: String,required: true },
-        CNPJ: { type: String, required: true},
         redesocial: { type: Array },
         Site: { type: String },
         Whatsapp: { type: String,required: true },
