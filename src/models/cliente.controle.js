@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const clienteSchema = new mongoose.Schema(
     {
         id: { type: String },
-        nomedaEmpreendedora: { type: String ,required: true},
+        nomedaCliente: { type: String ,required: true},
         nomedoEmpreendimento: { type: String , required: true},
         cpf: { type: String,required: true },
         CNPJ: { type: String, required: true},
