@@ -53,7 +53,7 @@ fonte: Por Rafael Rosas, Juliana Schincariol e Alessandra Saraiva, Valor — Rio
 Atualizado em: 06/11/2019
 Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-maiores-desocupacao-e-informalidade-e-menores-rendimentos-mostra-ibge.ghtml]
 
-###Desenvolvedoras Do Projeto
+💖 Desenvolvedoras Do Projeto 💖
 
 [Luana Michele](https://github.com/Michele324),
 [Delis Guerra](https://github.com/DelisG),
@@ -66,6 +66,6 @@ Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-m
 [Carolina Fernanda](https://github.com/Carolfernanda),
 [Vanessa Farias](https://github.com/Vr-Farias).
 
-#Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](https://github.com/devcode25))!
+Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](https://github.com/devcode25))!
 
 ------------------------------
