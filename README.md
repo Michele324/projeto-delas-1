@@ -18,13 +18,8 @@ A proposta é fornecer uma plataforma de comércio eletrônico que promova a uni
 E-commerce
 
 
-### Para quem: 
-Mulheres empreendedoras
-
-
 ### Público-alvo: 
-Todos os públicos
-
+Mulheres de todas as orientações sexuais e identidades de gênero, com foco no empreendedorismo e prestações de serviços delas para elas. 
 
 ### Como funcionará: 
 O site de comércio eletrônico permitirá o cadastro de produtos e serviços, fornecendo informações detalhadas, como fotos, descrição, preço, opções de frete, localização e promoções. Dessa forma, os clientes poderão encontrar e adquirir facilmente os produtos e serviços desejados. Além disso, o site contará com campos para sugestões e avaliações dos clientes.
@@ -60,6 +55,7 @@ Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-m
 
 ###Desenvolvedoras Do Projeto
 
+[Luana Michele](https://github.com/Michele324),
 [Delis Guerra](https://github.com/DelisG),
 [Renata Silvestre](https://github.com/renatasilvestr3),
 [Tereza Oliveira](https://github.com/devcode25),
@@ -68,7 +64,7 @@ Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-m
 [Michelle Bessoni](https://github.com/mbessoni),
 [Luana Comin](https://github.com/luanamcomin),
 [Carolina Fernanda](https://github.com/Carolfernanda),
-[Vanessa Farias](https://github.com/Vr-Farias),
+[Vanessa Farias](https://github.com/Vr-Farias).
 
 #Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](https://github.com/devcode25))!
 
