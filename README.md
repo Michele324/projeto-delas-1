@@ -65,6 +65,6 @@ Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-m
 [Carolina Fernanda](https://github.com/Carolfernanda),
 [Vanessa Farias](https://github.com/Vr-Farias).
 
-Projeto criado com a orientação e carinho da Professora [Tereza Oliveira](https://github.com/devcode25))!
+Projeto desenvolvido com a orientação e carinho da Professora [Tereza Oliveira](https://github.com/devcode25))!
 
 ------------------------------
