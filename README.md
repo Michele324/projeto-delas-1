@@ -56,6 +56,20 @@ Disponível em:https://namidia.fapesp.br/mercado-de-trabalho-para-pessoas-trans/
 A taxa de participação das mulheres no mercado de trabalho no ano passado foi de 52,9% enquanto a dos homens foi de 72%
 fonte: Por Rafael Rosas, Juliana Schincariol e Alessandra Saraiva, Valor — Rio
 Atualizado em: 06/11/2019
-Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-maiores-desocupacao-e-informalidade-e-menores-rendimentos-mostra-ibge.ghtml
+Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-maiores-desocupacao-e-informalidade-e-menores-rendimentos-mostra-ibge.ghtml]
+
+###Desenvolvedoras Do Projeto
+
+[Delis Guerra](https://github.com/DelisG)
+[Renata Silvestre](https://github.com/renatasilvestr3)
+[Tereza Oliveira](https://github.com/devcode25)
+[Ana Rita](https://github.com/aritarruda)
+[Atalide](https://github.com/Atalide)
+[Michelle Bessoni](https://github.com/mbessoni)
+[Luana Comin](https://github.com/luanamcomin)
+[Carolina Fernanda](https://github.com/Carolfernanda)
+[Vanessa Farias](https://github.com/Vr-Farias)
+
+#Projeto criado com a orientação e cuidado da Professora Tereza Oliveira)!
 
 ------------------------------
