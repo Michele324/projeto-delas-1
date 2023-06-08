@@ -60,16 +60,16 @@ Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-m
 
 ###Desenvolvedoras Do Projeto
 
-[Delis Guerra](https://github.com/DelisG)
-[Renata Silvestre](https://github.com/renatasilvestr3)
-[Tereza Oliveira](https://github.com/devcode25)
-[Ana Rita](https://github.com/aritarruda)
-[Atalide](https://github.com/Atalide)
-[Michelle Bessoni](https://github.com/mbessoni)
-[Luana Comin](https://github.com/luanamcomin)
-[Carolina Fernanda](https://github.com/Carolfernanda)
-[Vanessa Farias](https://github.com/Vr-Farias)
+[Delis Guerra](https://github.com/DelisG),
+[Renata Silvestre](https://github.com/renatasilvestr3),
+[Tereza Oliveira](https://github.com/devcode25),
+[Ana Rita](https://github.com/aritarruda),
+[Atalide](https://github.com/Atalide),
+[Michelle Bessoni](https://github.com/mbessoni),
+[Luana Comin](https://github.com/luanamcomin),
+[Carolina Fernanda](https://github.com/Carolfernanda),
+[Vanessa Farias](https://github.com/Vr-Farias),
 
-#Projeto criado com a orientação e cuidado da Professora Tereza Oliveira)!
+#Projeto criado com a orientação e cuidado da Professora [Tereza Oliveira](https://github.com/devcode25))!
 
 ------------------------------
