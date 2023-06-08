@@ -1,11 +1,10 @@
 const mongoose = require("mongoose");
 const empreendedoraSchema = new mongoose.Schema(
     {
-        id: { type: String },
+    
         nomeDaEmpreendedora: { type: String ,required: true},
         nomeDoEmpreendimento: { type: String , required: true},
-        cpf: { type: String,required: true },
-        cnpj: { type: String, required: true},
+        cpfCnpj: { type: String,required: true },
         redesocial: { type: Array },
         site: { type: String },
         whatsapp: { type: String,required: true },

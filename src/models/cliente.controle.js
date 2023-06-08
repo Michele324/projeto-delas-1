@@ -2,17 +2,14 @@ const mongoose = require("mongoose");
 const clienteSchema = new mongoose.Schema(
     {
         id: { type: String },
-        nomedaCliente: { type: String ,required: true},
-        cpf: { type: String,required: true },
-        redesocial: { type: Array },
-        Site: { type: String },
-        Whatsapp: { type: String,required: true },
+        nomeDoCliente: { type: String, required: true },
+        cpf: { type: String, required: true },
+        whatsapp: { type: String, required: true },
+        endereco: { type: Object, required: true },
         email: { type: String, required: true },
-        Nicho: { type: String,required: true },
-        categoria: { type: String,required: true },
-        endereço: { type: Object, required: true },
-        descriçao: { type: String ,required: true},
-        Youliked: { type: Boolean }
+        dataDeNascimento: { type: String },
+        genero: { type: String, required: true },
+        youLiked: { type: Boolean },
     }
 )
 

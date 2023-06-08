@@ -5,3 +5,5 @@ const router = express.router();
 
 router.get("/", controller.getAllCliente);
 router.post("/", controller.createCliente);
+
+module.exports = router;
