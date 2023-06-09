@@ -15,7 +15,7 @@ O projeto tem como objetivo criar um site de comércio eletrônico que promova o
 ### Solução proposta: 
 A proposta é fornecer uma plataforma de comércio eletrônico que promova a união entre empreendedoras, incentivando a criação de novos negócios liderados por mulheres, ampliando a diversidade e promovendo oportunidades igualitárias. O projeto contribuirá para a geração de renda e valorização do trabalho das empreendedoras, tornando-se uma referência para o público empreendedor. Além disso, oferecerá aos clientes uma ampla gama de produtos e serviços.
 ### Tipo de plataforma: 
-E-commerce
+Marketplace
 
 
 ### Público-alvo: 
