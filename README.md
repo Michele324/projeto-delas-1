@@ -53,6 +53,169 @@ fonte: Por Rafael Rosas, Juliana Schincariol e Alessandra Saraiva, Valor — Rio
 Atualizado em: 06/11/2019
 Disponível em: https://valor.globo.com/brasil/noticia/2019/11/06/mulheres-tem-maiores-desocupacao-e-informalidade-e-menores-rendimentos-mostra-ibge.ghtml]
 
+
+<br>
+<!--- [Apresentação do Projeto Final](#) --->
+<br>
+<br>
+ <h3> 📁 Arquitetura do Projeto </h3>
+
+``` 
+📁projeto-delas
+   |
+   |--📁node_modules
+   |
+   |--📁 src
+   |  ||
+   |  ||--📁 config
+   |  |    |- 📄 dbConnect.js
+   |  ||
+   |  ||--📁 controllers
+   |  |    |- 📄 clientesController.js
+   |  |    |- 📄 empreendedorasController.js  
+   |  |
+   |  |
+   |  ||--📁 models
+   |  |    |- 📄 clientes.js
+   |  |    |- 📄 empreendedoras.js
+   |  |
+   |  ||--📁 routes
+   |  |    |- 📄 clientes.js
+   |  |    |- 📄 empreendedoras.js
+   |  |    |- 📄 index.js 
+   |  |
+   |  ||-📄 app.js
+   |  |
+   |  |
+   |  | 
+   |- 📄 .gitignore
+   |- 📄 package-lock.json
+   |- 📄 package.json
+   |- 📄 server.js
+   |- 📄 README.md
+``` 
+:pushpin: Lembre-se que a arquitetura ao final do projeto precisa ficar exatamente dessa maneira. 
+
+
+
+<br>
+<br>
+
+
+##  :ledger: Tecnologias Utilizadas
+
+| Ferramenta | Descrição |
+| --- | --- |
+| `javascript` | Linguagem de programação. |
+| `node.js`    | Ambiente de execução do javascript.|
+| `npm`| Gerenciador de pacotes.|
+| `MongoDb`    | Banco de dados não relacional orietado a documentos.|
+| `Mongo Atlas`| Interface gráfica para verificar se os dados foram persistidos.|
+| `Postman` | Interface gráfica para realizar os testes.|
+
+ ## :bookmark: Pacotes Utilizados
+ | Ferramenta | Descrição |
+ | --- | --- |
+| `express`    | Framework NodeJS. |
+| `mongoose`   | Dependência que interage com o MongoDB para a conexão da database, criação do model e das collections.|
+| `nodemon`    | Dependência que observa as atualizações realizadas nos documentos para rodar o servidor automaticamente.|
+<br>
+
+📝 [Link para a documentação:](https://github.com/DelisG/projeto-delas/blob/main/README.md)
+
+<br>
+
+<h1 align="center">
+<!-- 
+<p align="center">
+<img src= "#" width="500px" height="150"/>
+</p>
+-->
+<br>
+
+## Clonar o repositório
+$ git clone https://github.com/DelisG/projeto-delas.git
+
+### Entrar na pasta do repositório
+$ cd projeto-delas
+
+### Instalar as dependências
+$ npm install
+
+### Executar o servidor para que você possa rodar o projeto localmente
+$ npm start
+
+<br>
+<br>
+
+
+## :iphone: Interface Gráfica Para Realizar os Testes
+
+<br>
+
+📌 Este projeto está com os métodos HTTP organizados. Você pode testar as rotas Get, Post,Delete e Patch através de qualquer ferramenta cliente API REST, como Insomnia, Thunder Client, Postman, entre outros. Nesse projeto, utilizamos o [Postman](https://www.postman.com/downloads/). A interface é um CRUD.
+<br>
+<br> 
+ <!---
+▫️ Rota de criação de empreendedora
+<br>
+
+<img src= "#" width="70%" height="40%"/>
+</p>
+
+<br>
+
+▫️ Rota que retorna todas as empreendedoras
+<br>
+
+<img src= "#" width="70%" height="40%"/>
+</p>
+
+<br>
+
+▫️ Rota que retorna o empreendimento por categoria
+<br>
+
+<img src= "#" width="70%" height="40%"/>
+</p>
+
+<br>
+
+▫️ Rota que altera algum dado do cadastro da empreendedora
+<br>
+<!--- <img src= "#" width="70%" height="40%"/> --->
+
+</p>
+<br>
+<br>
+
+ 
+Testando Rotas
+ 📢 Todas as rotas existentes neste projeto:
+
+ <h3> No usuário Empreendedora, os métodos e rotas serão:</h3>
+
+| Verbo  |   EndPoint         |         Descrição da Rota                               | 
+| ------ | ------------------ | --------------------------------------------------------| 
+| GET    | /empreendedoras    | Listar todas as empreendedoras cadastradas              |   
+| GET    | /:id               | Mostra o cadastro da empreendedora por ID               |  
+| POST   | /                  | Registra uma nova empreendedora                         |   
+| PUT    | /:id               | Altera dados da empreendedora identificada pelo id      |   
+| DELETE | /:id               | Remove o cadastro da empreendedora identificada pelo id |   
+
+<br>
+ <h3> No usuário cliente, os métodos e rotas serão:</h3>
+
+| Verbo  |   EndPoint         |         Descrição da Rota                               | 
+| ------ | ------------------ | --------------------------------------------------------| 
+| GET    | /cliente           | Listar todas os clientes cadastrados                    |   
+| GET    | /:id               | Mostra o cadastro do cliente       por ID               |  
+| POST   | /                  | Registra um novo cliente                                |   
+| PUT    | /:id               | Altera dados do cliente identificado pelo id            |   
+| DELETE | /:id               | Remove o cadastro do cliente identificado pelo id       |   
+
+<br>
+
 💖 Desenvolvedoras Do Projeto 💖
 
 [Delis Guerra](https://github.com/DelisG),
