@@ -1,4 +1,4 @@
-# :blue_heart: Projeto Delas :blue_heart:
+# :yellow_heart: Projeto Delas :yellow_heart:
 
 ### Qual problema o Delas visa solucionar?
  Muitas empreendedoras enfrentam a falta de uma plataforma que lhes permita oferecer seus serviços e alcançar um público-alvo mais amplo. Elas desejam expandir seus negócios e gerar mais oportunidades de emprego.
